@@ -8,7 +8,7 @@ DISCLAIMER: This repository contains all the solution files for the given challe
 
 Happy Hunting :) 
 
-**Thanks [@tinchoabbate]!
+**Thanks [@tinchoabbate]!**
 
 ## Play
 
