@@ -8,7 +8,7 @@ Created by [@tinchoabbate](https://twitter.com/tinchoabbate) at OpenZeppelin
 
 Happy Hunting :) 
 
-Thanks [@tinchoabbate]!
+Thanks [@tinchoabbate](https://twitter.com/tinchoabbate)!
 
 ## Play
 
