@@ -4,11 +4,11 @@
 
 Created by [@tinchoabbate](https://twitter.com/tinchoabbate) at OpenZeppelin
 
-DISCLAIMER: This repository contains all the solution files for the given challenges. To have the fun that I had, please try to solve the challenges by yourself and use this only for reference in case you complete the challenge or get stuck. 
+**DISCLAIMER**: This repository contains all the solution files for the given challenges. To have the fun that I had, please try to solve the challenges by yourself and use this only for reference in case you complete the challenge or get stuck. 
 
 Happy Hunting :) 
 
-**Thanks [@tinchoabbate]!**
+Thanks [@tinchoabbate]!
 
 ## Play
 
